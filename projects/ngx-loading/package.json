@@ -1,5 +1,5 @@
 {
-  "name": "ngx-loading",
+  "name": "@marklb/ngx-loading",
   "version": "10.0.0",
   "description": "A customisable loading spinner for Angular applications.",
   "repository": {
